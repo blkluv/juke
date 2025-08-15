@@ -222,12 +222,12 @@ export default function HomePage() {
               <AccordionContent>
                 You can reach out by DMing me on{" "}
                 <a
-                  href="https://twitter.com/skeptrun"
+                  href="https://twitter.com/wizardofhahz"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="underline text-blue-600 hover:text-blue-800"
                 >
-                  X (formerly Twitter) @skeptrune
+                  X (formerly Twitter) @wizardofhahz
                 </a>
                 . I love hearing your ideas and feedback!
               </AccordionContent>
@@ -239,7 +239,7 @@ export default function HomePage() {
               <AccordionContent>
                 Open an issue or pull request on{" "}
                 <a
-                  href="https://github.com/skeptrunedev/jukebox"
+                  href="https://github.com/blkluv/jukebox"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="underline text-blue-600 hover:text-blue-800"
